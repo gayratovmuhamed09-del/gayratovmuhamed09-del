@@ -1,3 +1,8 @@
+<!-- Анимированная шапка профиля -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=32&animation=fadeIn" width="100%" />
+</p>
+
 ## Привет,Мир 👋
 
 <!--
