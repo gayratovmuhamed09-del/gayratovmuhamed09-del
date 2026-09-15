@@ -2,6 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=32&animation=fadeIn" width="100%" />
 </p>
+<!-- Анимированная строка-печатная машинка -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Linux+%26+Bash+enthusiast;Automation+%26+Data+Analysis;Interactive+Storytelling;Always+learning..." alt="Typing SVG" />
+  </a>
+</p>
 
 ## Привет,Мир 👋
 
