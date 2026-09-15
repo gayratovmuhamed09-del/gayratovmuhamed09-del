@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Muhammed. I am 17. I’m in my second year of studying to become a programmer.
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>МОЙ РЕЙТИНГ ЯЗЫКОВ></summary>
 
 | Ранг | Язык |
 |-----:|---------------|
@@ -36,6 +36,9 @@ Hi, I'm Muhammed. I am 17. I’m in my second year of studying to become a progr
 ---
 >Один раз отмерь-семь раз отрежь
 
+— Цитата Великих людей
+
 ## About me
 
-<!-- TO DO: add more details about me later --
+Я играю в футбол. Учусь в Люберецком техникуме имени Героя Советского Союза летчика-космонавта Ю.А.Гагарина. После тренировок хожу в зал СССР.
+
